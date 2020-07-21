@@ -1,0 +1,1 @@
+docker build -t atepeq/spacy23_en_lg:0.0.1 -t atepeq/spacy23_en_lg:latest -f Dockerfile .
