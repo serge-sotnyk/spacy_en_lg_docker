@@ -1,4 +1,4 @@
-FROM python:3.7.7
+FROM python:3.8
 
 # Install Spacy and big model
 RUN pip install --upgrade pip && \
