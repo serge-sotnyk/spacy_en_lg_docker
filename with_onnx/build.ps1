@@ -1,1 +1,1 @@
-docker build -t atepeq/onnx_spacy23_en_lg:0.0.3 -t atepeq/onnx_spacy23_en_lg:latest -f Dockerfile .
+docker build -t atepeq/onnx_spacy23_en_lg:0.0.4 -t atepeq/onnx_spacy23_en_lg:latest -f Dockerfile .

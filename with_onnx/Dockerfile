@@ -1,4 +1,4 @@
-FROM python:3.8
+FROM python:3.9-slim
 
 # Prepare for ONNX runtime
 ENV LC_ALL=en_US.UTF-8
