@@ -1,0 +1,1 @@
+docker build -t atepeq/onnx_spacy3_en_sm:0.0.1 -t atepeq/onnx_spacy3_en_sm:latest -f Dockerfile .
